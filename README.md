@@ -2,7 +2,7 @@
 
 🚨 **99.63% Fraud Recall — $2.4B+ Loss Prevented — Enterprise-Grade ML Pipeline**
 
-[![View Notebook](https://img.shields.io/badge/View_Notebook-ipynb-black?logo=jupyter)](./fraud_detection.ipynb)
+[![View Notebook](https://img.shields.io/badge/View_Notebook-ipynb-black?logo=jupyter)](./financial-fraud-detection-model.ipynb)
 [![Download Model](https://img.shields.io/badge/Download_Model-pkl-blue?logo=github)](./fraud_detection_model.pkl)
 [![Open in Kaggle](https://img.shields.io/badge/Open_in-Kaggle-orange?logo=kaggle)](https://www.kaggle.com/code/nishtha711/financial-fraud-detection-model)
 
